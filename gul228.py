@@ -5,3 +5,6 @@ while count > 0:
     count -= 7
     time.sleep(0.1)
 print('Пока  ')
+print('Нет')
+count = 10
+
