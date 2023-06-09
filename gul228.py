@@ -4,6 +4,6 @@ while count > 0:
     print(count, '-7')
     count -= 7
     time.sleep(0.1)
-print('Пока git push'
-      'gitg ')
-print(count)
+print('Пока  ')
+print('Нет')
+count = 10
